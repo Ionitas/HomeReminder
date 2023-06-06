@@ -41,12 +41,12 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Easy to use
-    description                           : One touch wrist jappnaese key style reminder. 
+    description                           : One touch wrist jappnaese key style reminder. Use Japan productivity tool now.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Red flags
-    description                           : Check the red flags to ensure you have completed all the tasks you have setted.
-    fontawesome_icon_name                 : fa-flag 
+    description                           : Check the flags to ensure all the tasks you have setted have been completed.
+    fontawesome_icon_name                 : flag 
 
 
 
@@ -55,7 +55,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/homebanner.webp               # Replace with alternative image path or image URL.
+cover_image                               : assets/homebanner.png               # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
